@@ -1,6 +1,6 @@
 - :wave: Hi, I’m Dhruv Dwivedi
 - 👀 I’m interested in C, C++, Python, HTML, CSS, and JavaScript.
-- 🌱 I’m currently gaining proficiency in Data Structures and Algorithms.
+- 🌱 I’m currently gaining proficiency in frontend web development.
 - 💞️ I’m looking to collaborate on my interests.
 - 📫 dwivedidhruv6@gmail.com | dhrvdwvd@iitk.ac.in
 
