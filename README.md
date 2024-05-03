@@ -1,8 +1,9 @@
 - :wave: Hi, I’m Dhruv Dwivedi
-- 👀 I’m interested in JavaScript and its popular framework ReactJS.
-- 🌱 I’m currently gaining proficiency in frontend web development.
-- 💞️ I’m looking to collaborate on my interests.
-- 📫 dwivedidhruv6@gmail.com | dhrvdwvd@iitk.ac.in
+- 👓 I’m a specialist in Business Intelligence.
+- 👨‍💻 I'm proficient in using Power BI, SQL, and Python.
+- 🌱 I’m currently employed as a Business Intelligence consultant in a UK Based Insurance firm.
+- 💞️ I’m looking to help businesses understand their data better with Data analytics.
+- 📫 dwivedidhruv6@gmail.com
 
 <!---
 dhrvdwvd/dhrvdwvd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
